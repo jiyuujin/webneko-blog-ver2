@@ -1,7 +1,7 @@
 version: 2.1
 
 orbs:
-  aws-ecr: circleci/aws-ecr@6.15.3
+  aws-ecr: circleci/aws-ecr@7.0.0
   aws-ecs: circleci/aws-ecs@1.4.0
 
 executors:
